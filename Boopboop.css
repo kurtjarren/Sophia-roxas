@@ -1,0 +1,19 @@
+body {background-color: thistle;}
+h1 {font-size: 60px; font-family: Rockwell;}
+p {font-size: 35px; font-family: Calibri ;}
+
+article {
+	background-color: oldlace;
+	border-width: 20px;
+	border-style: solid;
+	margin: 100px;
+	margin-bottom: 30px;
+	padding: 100px; }
+
+aside {
+	background-color: oldlace;
+	border-width: 20px;
+	border-style: solid;
+	margin: 100px;
+	margin-top: 30px;
+	padding: 100px; }
